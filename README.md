@@ -120,7 +120,7 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 
 ## License
 
-This addon is released under the [GPLv3]([LICENSE](LICENSE)).
+This addon is released under the [GPLv3](LICENSE).
 
 ## Contact
 
