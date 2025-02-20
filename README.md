@@ -38,10 +38,10 @@ This pipeline-focused approach streamlines routine tasks and empowers you to foc
 
 ## Installation
 
-1.  Download the latest release from the [Releases](link_to_releases) page.
+1.  Download the latest release from the [Releases](https://github.com/ELIASADAMS/eli_lab_pipeline_hub/releases) page.
 2.  In Blender, go to `Edit > Preferences > Add-ons`.
 3.  Click the `Install...` button.
-4.  Select the downloaded `.zip` file.
+4.  Select the downloaded `.zip` file.~~~~
 5.  Enable the addon by checking the box next to "eli_lab Pipeline Hub" in the list of addons.
 
 ## Usage
