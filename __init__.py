@@ -67,11 +67,11 @@ classes = (
     lighting_rendering.MY_OT_AddLightingPreset,
     lighting_rendering.MY_OT_RemoveLightingPreset,
     lighting_rendering.MY_OT_ApplyLightingPreset,
-    task_automation.MY_PT_TaskAutomationPanel,  # Add
-    task_automation.MY_OT_RunBatchOperation,  # Add
-    performance_optimization.MY_PT_PerformanceOptimizationPanel,  # Add
-    performance_optimization.MY_OT_CleanupUnusedData,  # Add
-    performance_optimization.MY_OT_MergeByDistance,  # Add
+    task_automation.MY_PT_TaskAutomationPanel,
+    task_automation.MY_OT_RunBatchOperation,
+    performance_optimization.MY_PT_PerformanceOptimizationPanel,
+    performance_optimization.MY_OT_CleanupUnusedData,
+    performance_optimization.MY_OT_MergeByDistance,
 )
 
 
